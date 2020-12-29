@@ -29,10 +29,10 @@ class Test(GeneratorMixin, DSen2ModelMixin):
         self.test_pan_path = "./test_pan"
         self.save_path = "./mse_images"
 
-        self.dsen2_weight_path = "./DSen_weights/59_w.h5"
+        self.dsen2_weight_path = "./DSen_weights/69_w.h5"
         self.lsrnl2_weight_path = "./lsrn_weights/69_w.h5"
-        self.lsrnl1_weight_path = "./lsrnl1_weights/49_w.h5"
-        self.lsrgan_weight_path = "./lsrgan_weights/29_w.h5"
+        self.lsrnl1_weight_path = "./lsrnl1_weights/69_w.h5"
+        self.lsrgan_weight_path = "./lsrgan_weights/59_w.h5"
         self.elsrgan_weight_path = "./elsrgan_weights/69_gen.h5"
 
     def test(self):
