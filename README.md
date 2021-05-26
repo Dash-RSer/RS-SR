@@ -1,2 +1,3 @@
-# RS-SR
-woc 这代码已经不忍直视
+## RS-SR
+Some code for super-resolution. This code is poorly organized. :(
+**Has gone out of use **
